@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">YearInPixels</string>
+
+    <string-array name="s_month">
+
+        <item> * </item>
+        <item> E </item>
+        <item> F </item>
+        <item> M </item>
+        <item> A </item>
+        <item> M </item>
+        <item> J </item>
+        <item> J </item>
+        <item> A </item>
+        <item> S </item>
+        <item> O </item>
+        <item> N </item>
+        <item> D </item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
